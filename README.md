@@ -11,8 +11,8 @@ I'm a passionate software engineer with expertise in C#, .NET, and ASP.NET. I ho
 ---
 
 ## 🛠️ Experience  
-- **Siemens Healthineers**: Developed ASP.NET app, reducing analysis time by 60%.
-- **Siemens Technology**: Created C# test automation framework, cutting testing time by 43%.
+- **Siemens Healthineers** - Software Engineer Design and Development ,  Feb 2022 - Jul 2022
+- **Siemens Technology** - Software Engineer Development , Jul 2019-Aug 2021
 
 ---
 
@@ -30,11 +30,6 @@ I'm a passionate software engineer with expertise in C#, .NET, and ASP.NET. I ho
 
 ---
 
-## 🌟 Featured Projects  
-### CareerPaths
-Led the development of a microservices-based career platform, boosting transactions by 40%.
-
----
 
 ## 🚀 Let's Connect!
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/sindoora-s-rao) or check out my projects on [GitHub](https://github.com/SindooraRao). I'm always excited to connect with like-minded professionals and explore new opportunities!
