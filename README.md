@@ -25,11 +25,11 @@ I'm a passionate software engineer with expertise in C#, .NET, and ASP.NET. I ho
 ---
 
 ## 📬 Connect  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/sindoora-s-rao)
-- [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/SindooraRao)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sindoora-s-rao-459280186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXmU73LH6TXSzp1p3ZkrlbQ%3D%3D)
+- [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Sindoora-Rao)
 
 ---
 
 
 ## 🚀 Let's Connect!
-Feel free to reach out to me on [LinkedIn](https://linkedin.com/sindoora-s-rao) or check out my projects on [GitHub](https://github.com/SindooraRao). I'm always excited to connect with like-minded professionals and explore new opportunities!
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/sindoora-s-rao-459280816) or check out my projects on [GitHub](https://github.com/Sindoora-Rao). I'm always excited to connect with like-minded professionals and explore new opportunities!
