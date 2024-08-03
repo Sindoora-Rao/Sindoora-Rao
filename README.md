@@ -24,12 +24,6 @@ I'm a passionate software engineer with expertise in C#, .NET, and ASP.NET. I ho
 - **Design Patterns**: Adapter, Factory, Singleton, Observer.
 ---
 
-## 📬 Connect  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sindoora-s-rao-459280186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXmU73LH6TXSzp1p3ZkrlbQ%3D%3D)
-- [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Sindoora-Rao)
-
----
-
 
 ## 🚀 Let's Connect!
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sindoora-s-rao-459280186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXmU73LH6TXSzp1p3ZkrlbQ%3D%3D) or check out my projects on [GitHub](https://github.com/Sindoora-Rao). I'm always excited to connect with like-minded professionals and explore new opportunities!
+Feel free to reach out to me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sindoora-s-rao-459280186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXmU73LH6TXSzp1p3ZkrlbQ%3D%3D) or check out my projects on [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Sindoora-Rao). I'm always excited to connect with like-minded professionals and explore new opportunities!
